@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+doc.pdf
+CLAUDE.md
+skills.md
+.claude/
